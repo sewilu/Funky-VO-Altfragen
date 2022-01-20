@@ -1,2 +1,2 @@
 # Funky-VO-Altfragen
-Anki fragen der Altfragen von Schweiger seine Prüfungen
+Schweiger seine Altfragen in Anki Karten (DGL san no ned drinn)
